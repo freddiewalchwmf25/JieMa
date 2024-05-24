@@ -149,3 +149,5 @@ Dingtone 是一款类似Google Voice和TextNow的虚拟号码应用，提供多�
 - 支持多方通话和语音群聊
 - 可通过观看广告和做任务免费获取叮咚币，用于收发短信和拨打电话
 
+
+[使用SMS-Activate国外接码平台教程](https://github.com/bfresource1/jiaocheng)
