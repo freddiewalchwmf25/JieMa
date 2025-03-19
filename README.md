@@ -4,7 +4,8 @@
 
 现今，许多国外网站和应用在注册时需要手机号验证。如果使用个人手机号验证，可能会面临信息泄露和垃圾短信的困扰。此外，某些服务要求使用国外号码，而购买国外SIM卡既不现实，成本也高。在这种情况下，接码平台成为了一个理想的解决方案。
 
-接码平台提供大量国外号码，用于注册和接收验证码，例如ChatGPT、Google、WhatsApp、Amazon、Facebook、Instagram、Telegram、Tinder和Twitter等。以下是一些推荐的靠谱接码平台，包括免费和付费服务。
+接码平台提供大量国外号码，用于注册和接收验证码，例如ChatGPT、Google、WhatsApp、Amazon、Facebook、Instagram、Telegram、Tinder和Twitter等。以下是一些推荐的靠谱接码平台，包括免费和付费服务。 投稿合作联系：o66ette@gmail.com
+
 
 ## 推荐平台
 
